@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BaseScreen
+comment1.params=
+comment1.target=BaseScreen()
+comment10.params=
+comment10.target=void\ show()
+comment11.params=
+comment11.target=void\ hide()
+comment2.params=
+comment2.target=void\ initialize()
+comment3.params=deltaTime
+comment3.target=void\ update(float)
+comment4.params=deltaTime
+comment4.target=void\ render(float)
+comment5.params=e
+comment5.target=boolean\ isTouchedDonEvent(com.badlogic.gdx.scenes.scene2d.Event)
+comment6.params=width\ height
+comment6.target=void\ resize(int,\ int)
+comment7.params=
+comment7.target=void\ pause()
+comment8.params=
+comment8.target=void\ resume()
+comment9.params=
+comment9.target=void\ dispose()
+numComments=12
